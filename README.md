@@ -1,11 +1,9 @@
 # admin_app
-
-9mm ecommerce admin application
-1.Architecture : MVVM
-2.Payment Gateway: Razorpay
-3.State Management: GetX.
-4.Technology: Flutter
-5.Database: Firebase (Firestore).
+1. Architecture : MVVM
+2. Payment Gateway: Razorpay
+3. State Management: GetX.
+4. Technology: Flutter
+5. Database: Firebase (Firestore).
 
 ## Getting Started
 
