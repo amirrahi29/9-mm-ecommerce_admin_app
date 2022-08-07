@@ -5,6 +5,9 @@
 4. Technology: Flutter
 5. Database: Firebase (Firestore).
 
+![thumbnail](https://user-images.githubusercontent.com/107117774/183289979-b8581393-1339-4130-b04c-f0d6f9418134.png)
+
+
 ## Getting Started
 
 This project is based on ecommerce (medicine selling) application by flutter and firebase firestore. In this project you will get whole things like search, filter, order tracking etc. after order placed. I have created this by MVVM architecture with Razorpay payment and GetX State management.
